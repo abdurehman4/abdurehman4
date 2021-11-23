@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdurehman4
-- 👀 I’m interested in Python, C++, Flutter, ReactJS
+- 👀 I’m interested in Rust,Python
 - 🌱 I’m currently learning ReactJS
 
 <!---
