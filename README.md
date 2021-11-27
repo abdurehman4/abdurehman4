@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdurehman4
 - 👀 I’m interested in Rust,Python
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Rust
 
 <!---
 abdurehman4/abdurehman4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
