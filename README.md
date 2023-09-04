@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdurehman4
-- 👀 I’m interested in Rust,Python
+- 👀 I’m interested in Rust,NextJS 13
 - 🌱 I’m currently learning Rust
 
 <!---
